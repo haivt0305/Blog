@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My First Blog"
-date:   2020-09-19 09:13:26 +0700
-categories: jekyll update
+date:   2020-09-19 09:13:26 
+
 ---
 Derby là gì? Những trận derby lịch sử của bóng đá thế giới
 ----------------------------------------------------------
