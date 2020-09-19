@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-Đây là Blog của Nguyễn Quốc Việt
---------------------------------
