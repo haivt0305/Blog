@@ -20,8 +20,7 @@
 
 title: My Blog
 email: viet3042000@gmail.com
-sđt : 123456789
-github : viet3042000
+facebook : abc
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "Blog" # the subpath of your site, e.g. /blog
