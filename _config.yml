@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Blog
+title: My Contact
 email: viet3042000@gmail.com
 SĐT : 123456789
 Github : viet3042000
